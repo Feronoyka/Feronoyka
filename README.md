@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Nuraliyev Alisher 18 y.o. and I'm frontend engineer who loves <br>creating creative staff<br><br>My dream is to be creative web development<br><br>Currently I'm making a big pet project community with <br>backend integrated and with softaware architect<br><br>I'm not an expert and not going by template path, <br>I'm learning and choosing that sphere that I like<br><br>Juniour, Middle, Seniour titles doesn't matter to me, I'm sure by<br>my experience<br><br>I have no fear to try a new smth and from mistakes, failures, <br>even from silly mistakes<br><br>I like when someone helps and guides me<br><br>(Be the cringes dev ever in that way you can become better)
+Hello, I'm Feronoyka 18 y.o. frontend engineer who loves <br>creating creative staff<br><br>My dream is to be creative web development<br><br>Currently I'm making a big pet project community with <br>backend integrated and with softaware architect<br><br>I'm not an expert and not going by template path, <br>I'm learning and choosing that sphere that I like<br><br>Juniour, Middle, Seniour titles doesn't matter to me, I'm sure by<br>my experience<br><br>I have no fear to try a new smth and from mistakes, failures, <br>even from silly mistakes<br><br>I like when someone helps and guides me<br><br>
 
 
 ## 🌐 Socials:
