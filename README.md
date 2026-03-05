@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Feronoyka 18 y.o. frontend engineer who loves <br>creating creative staff<br><br>My dream is to be creative web developer<br><br>Currently I'm making a big pet project community with <br>backend integrated and with softaware architect<br><br>I'm not an expert at all but doing better as I can <br>I'm learning and choosing that sphere that I like, love, enjoy<br><br>I'm sure by my experience<br>I have no fear to try a new smth, make mistakes, failures, silly mistakes
+Hello, I'm Feronoyka 18 y.o. frontend engineer who loves <br>creating web stuff<br><br>Currently I'm making a big pet project community with <br>backend integrated and with softaware architect<br><br>I'm not an expert at all but doing better as I can<br>I'm sure by my experience<br>I have no fear to try a new smth, make mistakes, failures, silly mistakes
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@ Hello, I'm Feronoyka 18 y.o. frontend engineer who loves <br>creating creative s
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Feronoyka&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
