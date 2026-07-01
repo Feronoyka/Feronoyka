@@ -12,7 +12,4 @@ Hello, I'm Feronoyka 18 y.o. frontend engineer who loves<br>creating web stuff<b
 ![](https://streak-stats.demolab.com/?user=feronoyka&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=feronoyka&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=feronoyka&icon=1&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
