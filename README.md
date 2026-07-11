@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Feronoyka 18 y.o. frontend engineer who loves<br>creating web stuff<br><br>Currently I'm making a big pet project community with<br>backend integrated and with softaware architect<br><br>I'm not an expert at all but doing better as I can<br>I'm sure by my experience<br>I have no fear to try a new smth, make mistakes, failures, silly mistakes
+Hello, I'm Feronoyka 19 y.o. frontend engineer and generalist developer who loves<br>fast performance and creating, designing stuff<br><br>I'm not an expert at all but doing better as I can<br>I'm sure by my experience<br>I have no fear to try and leaarn a new technology
 
 
 ## 🌐 Socials:
