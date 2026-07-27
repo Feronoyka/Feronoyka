@@ -1,5 +1,5 @@
 <h2 data-importer="text" align="left">💫 About me:</h2>
-<p>Heyoo I'm Feronoyka I do creative frontend with NextJs, ReactJs and performance optimization combining with quite professional UI UX design and in some part I do backend with Nestjs, postgres, JWT auth integrating with frontend, I'm growing with foundation software architechture knowledge </p>
+<p>Heyoo I'm Alisher Creative Frontend engineer with Nextjs, Reactjs focusing on performance optimization and scalibility and UI UX designer via Figma, designing web sites quite professional with Main components, Layouts and focusing to solve users' problem and Generalist developer with foundation knowledge of Software atchitecture and large scale system design including backend development with Nestjs, Postgres, JWT auth </p>
 
 ###
 <h2 data-importer="text" align="left">📊 Github stats:</h2>
